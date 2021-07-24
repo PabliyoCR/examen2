@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <CopyRefAssembliesToPublishDirectory>false</CopyRefAssembliesToPublishDirectory>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\App\Direccion\Edit.ts" />
+    <Content Remove="wwwroot\App\Direccion\Grid.ts" />
+    <Content Remove="wwwroot\App\Grid.ts" />
+    <Content Remove="wwwroot\App\Persona\Edit.ts" />
+    <Content Remove="wwwroot\App\Persona\Grid.ts" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="5.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WBL\WBL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="wwwroot\App\Direccion\Edit.ts" />
+    <TypeScriptCompile Include="wwwroot\App\Direccion\Grid.ts" />
+    <TypeScriptCompile Include="wwwroot\App\Persona\Edit.ts" />
+    <TypeScriptCompile Include="wwwroot\App\Persona\Grid.ts" />
+  </ItemGroup>
+
+</Project>

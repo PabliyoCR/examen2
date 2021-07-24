@@ -1,0 +1,30 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Agencias] (Table)
+       [dbo].[CatalogoCanton] (Table)
+       [dbo].[CatalogoDistrito] (Table)
+       [dbo].[CatalogoProvincia] (Table)
+       [dbo].[FK_Agencia_Provincia] (Foreign Key)
+       [dbo].[Fk_Agencia_Canton] (Foreign Key)
+       [dbo].[Fk_Agencia_Distrito] (Foreign Key)
+       [dbo].[FK_Canton_Provincia] (Foreign Key)
+       [dbo].[FK_Distrito_Canton] (Foreign Key)
+       [dbo].[AgenciaActualizar] (Procedure)
+       [dbo].[AgenciaEliminar] (Procedure)
+       [dbo].[AgenciaInsertar] (Procedure)
+       [dbo].[AgenciaObtener] (Procedure)
+       [dbo].[CatalogoCantonLista] (Procedure)
+       [dbo].[CatalogoDistritoLista] (Procedure)
+       [dbo].[CatalogoProvinciaLista] (Procedure)
+
+** Supporting actions

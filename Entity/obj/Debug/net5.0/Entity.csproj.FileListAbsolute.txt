@@ -1,0 +1,47 @@
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\bin\Debug\net5.0\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\bin\Debug\net5.0\Entity.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\Entity\obj\Debug\net5.0\Entity.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\bin\Debug\net5.0\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\bin\Debug\net5.0\Entity.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\Entity\obj\Debug\net5.0\Entity.pdb

@@ -1,0 +1,68 @@
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\WBL.deps.json
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\WBL.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\ref\WBL.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\WBL.pdb
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\BD.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\Entity.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\BD.pdb
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\bin\Debug\net5.0\Entity.pdb
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.csproj.AssemblyReference.cache
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.AssemblyInfoInputs.cache
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.AssemblyInfo.cs
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.csproj.CoreCompileInputs.cache
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.csproj.CopyComplete
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\ref\WBL.dll
+C:\Users\alu93\source\repos\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\WBL.deps.json
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\ref\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\WBL.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\BD.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\BD.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\bin\Debug\net5.0\Entity.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.csproj.AssemblyReference.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.AssemblyInfoInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.AssemblyInfo.cs
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.csproj.CoreCompileInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.csproj.CopyComplete
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\ref\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\WBL\obj\Debug\net5.0\WBL.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\WBL.deps.json
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\ref\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\WBL.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\BD.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\Entity.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\BD.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\bin\Debug\net5.0\Entity.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.csproj.AssemblyReference.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.AssemblyInfoInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.AssemblyInfo.cs
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.csproj.CoreCompileInputs.cache
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.csproj.CopyComplete
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\ref\WBL.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2 - copia\Examen2\WBL\obj\Debug\net5.0\WBL.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\WBL.deps.json
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\WBL.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\ref\WBL.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\WBL.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\BD.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\Entity.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\BD.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\bin\Debug\net5.0\Entity.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.csproj.AssemblyReference.cache
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.AssemblyInfoInputs.cache
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.AssemblyInfo.cs
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.csproj.CoreCompileInputs.cache
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.csproj.CopyComplete
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\ref\WBL.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\WBL\obj\Debug\net5.0\WBL.pdb

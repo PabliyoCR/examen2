@@ -1,0 +1,39 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[CatalogoCanton] (Table)
+       [dbo].[CatalogoDistrito] (Table)
+       [dbo].[CatalogoProvincia] (Table)
+       [dbo].[Direccion] (Table)
+       [dbo].[Persona] (Table)
+       [dbo].[Persona].[IDX_Persona_Cedula] (Index)
+       [dbo].[DF_Persona_Hijos] (Default Constraint)
+       [dbo].[FK_Canton_Provincia] (Foreign Key)
+       [dbo].[FK_Distrito_Canton] (Foreign Key)
+       [dbo].[FK_Direccion_Persona] (Foreign Key)
+       [dbo].[FK_Direccion_Provincia] (Foreign Key)
+       [dbo].[Fk_Direccion_Canton] (Foreign Key)
+       [dbo].[Fk_Direccion_Distrito] (Foreign Key)
+       [dbo].[AgenciaObtener] (Procedure)
+       [dbo].[CatalogoCantonLista] (Procedure)
+       [dbo].[CatalogoDistritoLista] (Procedure)
+       [dbo].[CatalogoProvinciaLista] (Procedure)
+       [dbo].[DireccionActualizar] (Procedure)
+       [dbo].[DireccionEliminar] (Procedure)
+       [dbo].[DireccionInsertar] (Procedure)
+       [dbo].[PersonaEliminar] (Procedure)
+       [dbo].[PersonaInsertar] (Procedure)
+       [dbo].[PersonaLista] (Procedure)
+       [dbo].[PersonaObtener] (Procedure)
+       [dbo].[VehiculoActualizar] (Procedure)
+
+** Supporting actions

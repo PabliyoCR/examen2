@@ -1,0 +1,15 @@
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\bin\Debug\BaseDatos.dacpac
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\bin\Debug\BaseDatos.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\obj\Debug\Model.xml
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\obj\Debug\refactor.xml
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\obj\Debug\postdeploy.sql
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\obj\Debug\predeploy.sql
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\obj\Debug\BaseDatos.dll
+C:\UTC\Progra 6- Cuatri II\Examen 2\LaboratorioProgra6\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\BaseDatos\bin\Debug\BaseDatos.dacpac
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\BaseDatos\obj\Debug\BaseDatos.sqlproj.AssemblyReference.cache
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\jimen\Desktop\Examen\Examen\Examen2\BaseDatos\bin\Debug\BaseDatos.pdb

@@ -1,0 +1,74 @@
+﻿@page
+@model WebApplication.Pages.Persona.EditModel
+@{
+}
+
+<div id="AppEdit" class="container" data-entity="@JsonSerializer.Serialize(Model.Entity)">
+    <div class="card">
+        <div class="card-header">
+            @(Model.id.HasValue ? "Actualizar": "Nuevo")
+        </div>
+        <div class="card-body">
+            <form id="FormEdit" method="post">
+                <input type="hidden" asp-for="Entity.IdPersona" />
+                <div class="form-group mb-3">
+                    <label for="Entity.Cedula" class="form-label">Cedula</label>
+                    <input type="text" class="form-control" asp-for="Entity.Cedula" maxlength="250" required>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label for="Entity.Nombre" class="form-label">Nombre</label>
+                    <input type="text" class="form-control" asp-for="Entity.Nombre" maxlength="250" required>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label for="Entity.Primer_Apellido" class="form-label">Primer Apellido</label>
+                    <input type="text" class="form-control" asp-for="Entity.Primer_Apellido" maxlength="250" required>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label for="Entity.Segundo_Apellido" class="form-label">Segundo Apellido</label>
+                    <input type="text" class="form-control" asp-for="Entity.Segundo_Apellido" maxlength="250" required>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label for="Entity.FechaNacimiento" class="form-label">Fecha Nacimiento</label>
+                    <input type="date" class="form-control" asp-for="Entity.FechaNacimiento" maxlength="250" required>
+                </div>
+
+                <div class="form-group  form-check form-switch">
+                    <label class="form-check-label" for="Entity_TieneHijos">Tiene Hijos?</label>
+                    <input class="form-check-input" type="checkbox" asp-for="Entity.TieneHijos" v-model="Entity.TieneHijos"
+                           v-on:change="RefrescarValidaciones" value="true">
+                </div>
+
+
+                <div v-if="Entity.TieneHijos" class="form-group mb-3">
+                    <label for="Entity.Cuantos" class="form-label">Cuantos?</label>
+                    <textarea class="form-control" asp-for="Entity.Cuantos" maxlength="1000" required></textarea>
+                </div>
+
+
+                <div class="form-check form-switch">
+                    <input class="form-check-input" type="checkbox" asp-for="Entity.Estado" value="true">
+                    <label class="form-check-label" for="Entity.Estado">Estado</label>
+                </div>
+
+                <div class="row">
+                    <div class="col-4">
+                        <button type="submit" class="btn btn-outline-primary">
+                            @(Model.id.HasValue ? "Actualizar": "Agregar")
+                        </button>
+
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script defer src="~/App/Persona/Edit.js"></script>
+   
+
+}

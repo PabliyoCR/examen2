@@ -1,0 +1,20 @@
+﻿CREATE TABLE [dbo].[Persona]
+(  
+    IdPersona INT NOT NULL IDENTITY(1,1) CONSTRAINT PK_Persona PRIMARY KEY CLUSTERED(IdPersona)
+  , Cedula VARCHAR(250) NOT NULL
+  , Nombre VARCHAR(250) NOT NULL
+  , Primer_Apellido VARCHAR(250) NOT NULL
+  , Segundo_Apellido VARCHAR(250) NOT NULL
+  , FechaNacimiento DATE NOT NULL 
+  , TieneHijos BIT NOT NULL CONSTRAINT DF_Persona_Hijos default(0)
+  , Cuantos VARCHAR(1000) NULL
+  , Estado BIT NOT NULL
+)
+WITH (DATA_COMPRESSION=PAGE)
+GO
+
+CREATE UNIQUE NONCLUSTERED INDEX IDX_Persona_Cedula
+ON dbo.Persona(Cedula)
+WITH (DATA_COMPRESSION=PAGE)
+GO
+

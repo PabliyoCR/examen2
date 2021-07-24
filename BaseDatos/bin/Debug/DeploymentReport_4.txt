@@ -1,0 +1,29 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[Vehiculo]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[Vehiculo] (Table)
+     Alter
+       [dbo].[VehiculoActualizar] (Procedure)
+       [dbo].[VehiculoInsertar] (Procedure)
+       [dbo].[VehiculoObtener] (Procedure)
+     Create
+       [dbo].[MarcaVehiculoLista] (Procedure)
+
+** Supporting actions
+     Drop
+       [dbo].[DF_Vehiculo_FechaModelo] (Default Constraint)
+       [dbo].[FK_Vehiculo_MarcaVehiculo] (Foreign Key)
+     Create
+       [dbo].[Vehiculo].[IDX_Vehiculo_Matricula] (Index)
+       [dbo].[FK_Vehiculo_MarcaVehiculo] (Foreign Key)
+     Refresh
+       [dbo].[VehiculoEliminar] (Procedure)

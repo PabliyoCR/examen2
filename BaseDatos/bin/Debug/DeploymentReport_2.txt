@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[MarcaVehiculoActualizar] (Procedure)
+       [dbo].[MarcaVehiculoEliminar] (Procedure)
+       [dbo].[MarcaVehiculoInsertar] (Procedure)
+       [dbo].[MarcaVehiculoObtener] (Procedure)
+       [dbo].[VehiculoActualizar] (Procedure)
+       [dbo].[VehiculoEliminar] (Procedure)
+       [dbo].[VehiculoInsertar] (Procedure)
+       [dbo].[VehiculoObtener] (Procedure)
+
+** Supporting actions

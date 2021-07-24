@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[DireccionActualizar] (Procedure)
+       [dbo].[DireccionEliminar] (Procedure)
+       [dbo].[DireccionInsertar] (Procedure)
+       [dbo].[DireccionObtener] (Procedure)
+       [dbo].[PersonaActualizar] (Procedure)
+       [dbo].[PersonaEliminar] (Procedure)
+       [dbo].[PersonaInsertar] (Procedure)
+       [dbo].[PersonaLista] (Procedure)
+       [dbo].[PersonaObtener] (Procedure)
+
+** Supporting actions
